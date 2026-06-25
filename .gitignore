@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model Files
+*.pkl
+
+# Prediction History
+prediction_history.csv
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
